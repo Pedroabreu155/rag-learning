@@ -32,3 +32,5 @@ dist/
 .eggs/
 
 *.pdf
+
+.env
