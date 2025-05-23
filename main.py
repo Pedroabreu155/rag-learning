@@ -1,2 +1,1 @@
-text = input('Qual o texto ? ')
-print(text)
+print('Notebook para aprender sobre rag')
